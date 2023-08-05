@@ -1,0 +1,4 @@
+for a in [1,2,3,4,5]:
+    print(a)
+else:
+    print('점심 먹으러 가자')
